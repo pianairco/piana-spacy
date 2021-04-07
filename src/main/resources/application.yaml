@@ -1,0 +1,5 @@
+spring:
+  profiles:
+    include: spacy
+  main:
+    web-application-type: none

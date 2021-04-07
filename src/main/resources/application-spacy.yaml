@@ -1,0 +1,6 @@
+piana:
+  spacy:
+    port: 80
+    routes:
+      '[/]': rootHandler
+      '[/test]': testHandler
